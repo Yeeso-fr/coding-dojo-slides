@@ -286,7 +286,9 @@ Combien coûte vraiment « ce truc là » ?
 <Youtube id="JXs7wNMq5dk" width="100%" height="250px" />
 
 ---
-layout: center
+layout: iframe-right
+url: https://mobtime.hadrienmp.fr/
+iframeTitle: "Application Mob Time"
 ---
 
 # <span lang="en">Mob Time</span>
