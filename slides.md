@@ -23,12 +23,15 @@ The last comment block of each slide will be treated as slide notes. It will be 
 layout: intro
 ---
 
-**Manon Carbonnel**
+**Jane Doe**
 
-- Développeuse et intégratrice web
-- Facilitatrice Agile
-- Animatrice chez <a target="_blank" href='https://mobilizon.fr/@dev_en_equipe' title="Mob Prog FR - lien externe">MobProgFR</a>
-- <a target="_blank" href='https://bento.me/manoncarbonnel' title="Site web de Manon - lien externe">bento.me/manoncarbonnel</a>
+- Développeuse
+- Bénévole chez <span class="yeeso">yeeso</span>
+- <a target="_blank" href='https://example.com' title="Site web de Jane Doe - lien externe">example.com</a>
+
+<!--
+À personnaliser : remplacer Jane Doe, sa description et son lien par ceux de la personne qui anime le dojo.
+-->
 
 ---
 layout: three-cols-header
@@ -52,7 +55,7 @@ Débutant·e, confirmé·e, curieux·se, en reconversion…
 Ton premier souvenir avec un ordinateur
 
 <!--
-Une minute maximum par personne. On commence par l'animatrice pour donner l'exemple.
+Une minute maximum par personne. On commence par la personne qui anime pour donner l'exemple.
 -->
 
 ---

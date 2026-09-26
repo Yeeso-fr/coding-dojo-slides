@@ -6,6 +6,8 @@ L'atelier reprend le format « Redécouvrir la coopération : atelier de mob pro
 
 ## Utilisation
 
+Avant ton dojo, remplace « Jane Doe » (slide 2 de `slides.md`) par ton nom, ta description et ton lien.
+
 Node.js ≥ 22.12 requis.
 
 ```bash
