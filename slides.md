@@ -31,16 +31,6 @@ layout: intro
 - <a target="_blank" href='https://bento.me/manoncarbonnel' title="Site web de Manon - lien externe">bento.me/manoncarbonnel</a>
 
 ---
-layout: intro
----
-
-**Thomas Ployon**
-
-- Développeur
-- Cofondateur de Shodo Rennes
-- <a target="_blank" href='https://www.linkedin.com/in/thomas-ployon-8bb9a2176/' title="Linkedin de Thomas - lien externe">Profil LinkedIn de Thomas</a>
-
----
 transition: slide-up
 ---
 
@@ -95,12 +85,13 @@ Pour qu'une idée arrive dans le code, elle doit passer par le cerveau de quelqu
 Llewellyn Falco
 
 ---
-layout: image
-image: /baba-is-you.avif
+layout: center
 transition: slide-up
 ---
 
-<span lang="en">Baba Is You</span>
+# Le kata
+
+On le <span class="highlight">choisit ensemble</span> !
 
 ---
 layout: image-right
@@ -211,8 +202,8 @@ Partez du principe que nous sommes toustes très compétents et compétentes.
 
 # Disclaimer
 
-- On ne finira pas l'exercice
-- On ne jouera pas comme vous l'auriez fait seul·e
+- On ne finira pas l'exercice de code
+- On ne codera pas comme vous l'auriez fait seul·e
 
 <v-click>
 

@@ -2,7 +2,7 @@
 
 Slides des coding dojos de l'association **yeeso**, construites avec [Slidev](https://sli.dev) et le thème [`slidev-theme-yeeso`](https://github.com/Yeeso-fr/slidev-theme-yeeso).
 
-L'atelier reprend le format « Redécouvrir la coopération : atelier de mob programming », avec le jeu [Baba Is You](https://hempuli.com/baba/) à la place du kata de code.
+L'atelier reprend le format « Redécouvrir la coopération : atelier de mob programming » : un kata de code, choisi ensemble en début de séance.
 
 ## Utilisation
 
