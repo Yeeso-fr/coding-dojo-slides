@@ -31,6 +31,31 @@ layout: intro
 - <a target="_blank" href='https://bento.me/manoncarbonnel' title="Site web de Manon - lien externe">bento.me/manoncarbonnel</a>
 
 ---
+layout: three-cols-header
+---
+
+# Tour de table
+
+::left::
+## Qui es-tu ?
+
+Ton prénom, et tes pronoms si tu le souhaites
+
+::center::
+## Ton rapport au code
+
+Débutant·e, confirmé·e, curieux·se, en reconversion…
+
+::right::
+## Une anecdote
+
+Ton premier souvenir avec un ordinateur
+
+<!--
+Une minute maximum par personne. On commence par l'animatrice pour donner l'exemple.
+-->
+
+---
 transition: slide-up
 ---
 
