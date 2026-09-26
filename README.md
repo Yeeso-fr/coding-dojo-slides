@@ -1,4 +1,4 @@
-# Coding dojo yeeso
+# Coding Dojo Yeeso en non-mixité choisie
 
 Slides des coding dojos de l'association **yeeso**, construites avec [Slidev](https://sli.dev) et le thème [`slidev-theme-yeeso`](https://github.com/Yeeso-fr/slidev-theme-yeeso).
 

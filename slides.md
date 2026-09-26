@@ -1,6 +1,6 @@
 ---
 theme: yeeso
-title: "Coding dojo yeeso : redécouvrir la coopération"
+title: "Coding Dojo Yeeso en non-mixité choisie"
 highlighter: shiki
 drawings:
   persist: false
@@ -9,11 +9,9 @@ mdc: true
 layout: cover
 ---
 
-<div class="subtitle">Coding dojo yeeso</div>
+# Coding Dojo Yeeso
 
-# Redécouvrir la <span class="highlight">coopération</span>
-
-Atelier de mob programming
+En <span class="highlight">non-mixité choisie</span>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
